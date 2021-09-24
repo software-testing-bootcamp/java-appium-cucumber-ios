@@ -1,4 +1,4 @@
-# BDD iOS Test AUtomation with Java & Cucumber
+# BDD iOS Test Automation with Java & Cucumber
 
 **Youtube Webinar Video:**
 
